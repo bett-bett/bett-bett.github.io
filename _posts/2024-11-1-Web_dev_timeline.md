@@ -2,8 +2,8 @@
 layout: post
 titleL: Web Dev Timeline
 date: 1-11-2024
-categories: [hello-world]
-tag: [hello-world]
+categories: [web-dev]
+tag: [web-dev]
 toc: false
 comments: false
 pin: false
