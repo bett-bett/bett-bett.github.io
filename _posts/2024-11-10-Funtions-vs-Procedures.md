@@ -7,6 +7,7 @@ tag: [Funtions-vs-Procedures]
 toc: false
 comments: false
 pin: true
+publish: true
 ---
 
 
