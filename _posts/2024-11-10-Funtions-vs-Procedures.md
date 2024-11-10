@@ -171,7 +171,7 @@ Procedure for Updating State:
 
 
 
-## [Core Concepts](## "Flash Cards")
+## Core Concepts / Flash Cards
 
 ### 1. Understanding Functions vs Procedures
 
