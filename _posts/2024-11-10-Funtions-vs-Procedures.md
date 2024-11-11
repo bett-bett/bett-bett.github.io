@@ -345,7 +345,7 @@ describe('saveUserData', () => {
 2. **State Management**
    - Keep state changes isolated and predictable
    - Use React's useState for local state
-   - Consider [Redux]()/Context for global state
+   - Consider Redux/Context for global state
 
 3. **Debugging**
    - Pure functions are easier to debug (input → output)
